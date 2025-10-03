@@ -1,4 +1,6 @@
 land
 ice
 red
-
+no human
+metals
+cold
